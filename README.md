@@ -6,7 +6,7 @@
 <br>
 
 🎓 Informatics and Computing Engineering Student @ **FEUP**<br>
-🏫 **CIC** (Colégio Internato dos Carvalhos) Alumni<br>
+🏫 **CIC** (Colégio Internato dos Carvalhos)<br>
 🏆 **Competitive Programmer** (ONI Finalist & TOPAS 3rd Place)
  
 <hr></hr>
