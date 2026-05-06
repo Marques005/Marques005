@@ -21,7 +21,7 @@ Beyond code, I am a **huge motorsport fan**, inspired by the precision and engin
 <div align="center">
 
 ### 🏁 "If you no longer go for a gap that exists..."
-<img src="./senna.gif" width="20%" alt="Ayrton Senna">
+<img src="./senna.gif" width="50%" alt="Ayrton Senna">
 
 <br>
   
